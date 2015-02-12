@@ -1,11 +1,11 @@
 {
   "name": "ClosureIt",
-  "description": "TODO later",
+  "description": "ClosureIt is a PHP library that can generate SQL statement from PHP closures. Not for production!",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
-      "name": "MaxK"
+      "name": "Max K"
     }
   ],
   "require": {
